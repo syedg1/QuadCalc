@@ -1,6 +1,6 @@
 # QuadCalc
 
-This application can be run by downloading and importing the project into Android Studio. 
+This application can be run by downloading the project and importing it into Android Studio. 
 
 It contains two key features:
   - Basic Calculator
